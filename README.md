@@ -1,4 +1,4 @@
 # Анализ средней температуры
-## Average temperature data analysis from 1880 to 2022
+## Анализ средней температуры с 1880 по 2022
 
-Temperature data from NASA site
+Данные о температуре взяты с сайта https://data.giss.nasa.gov/gistemp/
